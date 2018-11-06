@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/contentscript.js"],"names":[],"mappings":"AAAA","file":"contentscript.js","sourcesContent":["'use strict';\n\n// console.log('\\'Allo \\'Allo! Content script');"]}
