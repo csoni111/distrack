@@ -11,7 +11,7 @@
   "web_accessible_resources": ["scripts/vendor/jquery/jquery-2.0.3.min.map"],
   "background": {
     "scripts": [
-       "scripts/chromereload.js",
+      // "scripts/chromereload.js",
       "scripts/vendor/jquery/jquery.js",
       "scripts/vendor/sitename/alttlds.js",
       "scripts/vendor/sitename/tldpatch.js",
